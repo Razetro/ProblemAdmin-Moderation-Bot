@@ -17,17 +17,7 @@ ProblemAdmin is a functional, beginner friendly Discord Modular Bot written in J
 
 #### Example
 ```js
-const Bot = require('problemadmin')
-
-const client = new Bot({
-  token: 'your token here',
-  modules: 'path/to/modules',
-  // Eris client options here
-})
-
-client.register('commands', 'path/to/commands')
-
-client.run()
+No Example 😢
 ```
 
 # 📑 Features

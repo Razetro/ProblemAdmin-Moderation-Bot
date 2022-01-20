@@ -11,6 +11,25 @@
 # 💾 ProbelmAdmin-Moderation-Bot
 ProblemAdmin is a functional, beginner friendly Discord Modular Bot written in JavaScript. The goal is to help beginners gain experience in JavaScript with this Discord Modular Bot.
 
+# Getting Started
+### Requirements
+* **Node.js 16.13.2+**
+
+#### Example
+```js
+const Bot = require('problemadmin')
+
+const client = new Bot({
+  token: 'your token here',
+  modules: 'path/to/modules',
+  // Eris client options here
+})
+
+client.register('commands', 'path/to/commands')
+
+client.run()
+```
+
 # 📑 Features
 - [ ] Modular system
 - [ ] Database Support (MySQL & MongoDB)

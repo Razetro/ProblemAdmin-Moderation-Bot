@@ -1,6 +1,7 @@
 # 💾 ProbelmAdmin-Moderation-Bot
 
 <div align="center">
+    <a href="https://discord.gg/QKwJ6bW"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
 </div>
 

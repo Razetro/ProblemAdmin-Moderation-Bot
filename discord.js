@@ -14,4 +14,3 @@ client.on('interactionCreate', async interaction => {
 });
 
 client.login('token');
-https://github.com/andresberrios/duolingo-stories-bot

@@ -4,7 +4,6 @@
     <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
 </div>
 
-<a href="https://discord.gg/QKwJ6bW"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/npm-v.16.13.2-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
 

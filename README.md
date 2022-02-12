@@ -12,7 +12,7 @@ ProblemAdmin is a functional, beginner friendly Discord Modular Bot written in J
 
 # Getting Started
 ### Requirements
-* **Node.js 16.13.2+**
+* **Node.js 16.13.2+![](https://nodejs.org/en/)**
 
 #### Example
 ```js

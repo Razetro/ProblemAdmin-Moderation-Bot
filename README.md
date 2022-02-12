@@ -18,15 +18,15 @@ ProblemAdmin is a functional, beginner friendly Discord Modular Bot written in J
 ```js
 module.exports.execute = async (client, message) => {
     const { channel } = message
-    channel.send('Testing success!')
+    channel.send('Your function here!')
 }
 
 module.exports.help = {
-    name: "test",
-    aliases: [],
-    category: "Miscellaneous",
-    usage: "",
-    description: "This is a Test Command!"
+    name: "Command Name",
+    aliases: ["your", "aliases"],
+    category: "Type here your category",
+    usage: "<number> ore <message>",
+    description: "Type here your description!"
 }
 ```
 

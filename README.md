@@ -39,7 +39,6 @@ module.exports.help = {
 - [x] Colored Console
 - [ ] Moderation features (kick/ban, mod-log, filter, chat cleanup)
 - [ ] Music features (YouTube, SoundCloud, local files, playlists, queues)
-- [ ] Slash Commands
 
 # 🙏 Thanks to:
 ### 🧑🏻‍🤝‍🧑🏻 Contributors

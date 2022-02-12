@@ -16,16 +16,27 @@ ProblemAdmin is a functional, beginner friendly Discord Modular Bot written in J
 
 #### Example
 ```js
-No Example 😢
+module.exports.execute = async (client, message) => {
+    const { channel } = message
+    channel.send('Testing success!')
+}
+
+module.exports.help = {
+    name: "test",
+    aliases: [],
+    category: "Miscellaneous",
+    usage: "",
+    description: "This is a Test Command!"
+}
 ```
 
 # 📑 Features
-- [ ] Modular system
+- [x] Modular system
 - [ ] Database Support (MySQL & MongoDB)
 - [ ] Web Rest API
 - [ ] Log System (paste upload)
-- [ ] Colored Console
-- [ ] Moderation features (kick/ban/softban/hackban, mod-log, filter, chat cleanup)
+- [x] Colored Console
+- [ ] Moderation features (kick/ban/, mod-log, filter, chat cleanup)
 - [ ] Music features (YouTube, SoundCloud, local files, playlists, queues)
 
 # 🙏 Thanks to:

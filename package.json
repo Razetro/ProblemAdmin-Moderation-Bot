@@ -1,0 +1,27 @@
+{
+  "name": "probelmadmin-moderation-bot",
+  "version": "1.0.0",
+  "description": "© 2022 BindYourServer USA, Inc. All rights reserved.",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.1.1",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "TheLinuxRaze",
+    "BindYourServer",
+    "Discord",
+    "JavaScript",
+    "Bot",
+    "Modular",
+    "Razetro",
+    "npm",
+    "nodejs"
+  ],
+  "author": "TheLinuxRaze",
+  "license": "MIT"
+}

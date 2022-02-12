@@ -37,7 +37,7 @@ module.exports.help = {
 - [ ] Web Rest API
 - [ ] Log System (paste upload)
 - [x] Colored Console
-- [ ] Moderation features (kick/ban/, mod-log, filter, chat cleanup)
+- [ ] Moderation features (kick/ban, mod-log, filter, chat cleanup)
 - [ ] Music features (YouTube, SoundCloud, local files, playlists, queues)
 
 # 🙏 Thanks to:

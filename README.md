@@ -33,3 +33,4 @@ No Example 😢
 * Razetro
 ### 🚧 Used Open-Source projects
 * [discordjs/discord.js](https://github.com/discordjs/discord.js)
+* [npmjs/dotenv](https://www.npmjs.com/package/dotenv)
